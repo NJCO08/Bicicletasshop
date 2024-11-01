@@ -4,9 +4,7 @@ Se proponen las siguientes ideas de aplicación para el proyecto:
 
 ## Idea 1: Bici Place (seleccionada)
 
-Bici Place es una aplicación diseñada para simplificar la compra y venta de artículos relacionados con bicicletas, abarcando desde componentes individuales hasta 
-bicicletas completas. Ofrece una interfaz amigable y segura, con información verificada y confiable sobre todos los productos.
-
+Bici Place es una app que facilita la compra segura de bicicletas, con una interfaz amigable y productos con información verificada para una experiencia confiable y transparente
 
 
 ### Aplicaciones similares
